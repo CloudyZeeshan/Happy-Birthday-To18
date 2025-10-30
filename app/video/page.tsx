@@ -171,11 +171,8 @@ export default function VideoPage() {
   const videos = [
     { label: "Your Video 1", type: "local", src: "/videos/your-video1.mp4" },
     { label: "Your Video 2", type: "local", src: "/videos/your-video2.mp4" },
-    {
-      label: "your surperis video",
-      type: "youtube",
-      src: "https://www.youtube.com/embed/K2aJTT29ZdU?autoplay=1&mute=0&rel=0"
-    }
+    { label: "Your Video 3", type: "local", src: "/videos/your-video3.mp4" },
+
   ]
 
   useEffect(() => {
