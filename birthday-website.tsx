@@ -158,7 +158,7 @@ export default function BirthdayWebsite() {
             <h1 className="text-6xl md:text-8xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-yellow-500 bg-clip-text text-transparent animate-pulse">
               Happy Birthday
             </h1>
-            <h2 className="text-4xl md:text-6xl font-bold text-purple-600 mt-4 animate-bounce">"Insert Name"! 🎉</h2>
+            <h2 className="text-4xl md:text-6xl font-bold text-purple-600 mt-4 animate-bounce">"My Friend"! 🎉</h2>
           </div>
 
           <div className="flex justify-center items-center gap-4 mb-8">

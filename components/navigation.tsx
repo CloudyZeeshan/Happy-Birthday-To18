@@ -20,7 +20,7 @@ export function Navigation() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2 text-purple-600 font-bold text-xl">
             <Gift className="animate-bounce" size={24} />
-            "Insert Name"'s Birthday
+            "My Friend"'s Birthday
           </Link>
 
           <div className="flex items-center gap-1">

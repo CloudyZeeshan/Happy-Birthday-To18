@@ -23,7 +23,7 @@ export default function HomePage() {
         <div className={`text-center mb-16 ${showContent ? "animate-bounce-in" : "opacity-0"}`}>
           <div className="mb-8">
             <h1 className="text-6xl md:text-8xl lg:text-9xl font-bold text-gradient mb-4">Happy Birthday</h1>
-            <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-purple-600 animate-bounce">"Insert Name"! 🎉</h2>
+            <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-purple-600 animate-bounce">"My Friend"! 🎉</h2>
           </div>
 
           <div className="flex justify-center items-center gap-4 mb-8">
@@ -46,7 +46,7 @@ export default function HomePage() {
             <Sparkles className="mx-auto text-purple-500 mb-6 animate-sparkle" size={48} />
             <h3 className="text-3xl md:text-4xl font-bold text-purple-600 mb-6">A Special Day for a Special Person</h3>
             <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
-              {`Today is all about celebrating YOU, "Insert Name"! Your kindness, your laughter, your amazing spirit - 
+              {`Today is all about celebrating YOU, "My Friend"! Your kindness, your laughter, your amazing spirit - 
               everything that makes you absolutely wonderful. This website is filled with memories, love, and 
               all the reasons why you're so special to everyone who knows you.`}
             </p>
