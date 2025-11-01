@@ -151,7 +151,7 @@ export default function MemoriesPage() {
               {`The greatest gift isn't something that can be wrapped or bought - it's having someone like you 
               in our lives. Your presence is a present, your friendship is a treasure, and your birthday is 
               a celebration of all the joy you bring to this world. Thank you for being exactly who you are, 
-              "Insert Name". You are loved, appreciated, and celebrated today and always!`}
+              "My Friend". You are loved, appreciated, and celebrated today and always!`}
             </p>
             <div className="flex justify-center items-center gap-4 text-4xl">
               <Heart className="text-red-300 animate-pulse" size={32} />
